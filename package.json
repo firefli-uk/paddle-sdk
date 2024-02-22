@@ -37,7 +37,6 @@
     "prepare": "husky install",
     "pretty": "prettier --write --list-different \"**/*.ts\"",
     "release": "standard-version -a",
-    "install": "npm run build",
     "test": "yarn test:jest",
     "test:coverage": "jest --coverage",
     "test:build": "./tests/build.sh",
