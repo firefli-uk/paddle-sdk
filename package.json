@@ -1,5 +1,5 @@
 {
-  "name": "paddle-sdk",
+  "name": "@firefli-uk/paddle-sdk",
   "description": "The Paddle.com Node.js SDK",
   "version": "4.6.2",
   "type": "module",
