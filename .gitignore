@@ -8,9 +8,7 @@ Thumbs.db
 *.log
 .eslintcache
 /build
-/cjs
 /coverage
 /docs
-/esm
 /tests/*/yarn.lock
 /tmp
